@@ -1,4 +1,4 @@
-# Michelangelo.
+# Michelangelo
 
 [**Conditional 3D Shape Generation based on Shape-Image-Text Aligned Latent Representation**](https://neuralcarver.github.io/michelangelo)<br/>
 [Zibo Zhao](https://github.com/Maikouuu),

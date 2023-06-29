@@ -2,7 +2,7 @@
 
 [**Conditional 3D Shape Generation based on Shape-Image-Text Aligned Latent Representation**](https://neuralcarver.github.io/michelangelo)<br/>
 [Zibo Zhao](https://github.com/Maikouuu),
-[Wen Liu]([https://github.com/Maikouuu](https://github.com/StevenLiuWen)),
+[Wen Liu](https://github.com/StevenLiuWen),
 [Xin Chen](https://chenxin.tech/),
 [Xianfang Zeng](https://neuralcarver.github.io/michelangelo),
 [Rui Wang](https://neuralcarver.github.io/michelangelo),

@@ -13,8 +13,9 @@
 [Shenghua Gao](https://sist.shanghaitech.edu.cn/sist_en/2020/0814/c7582a54772/page.htm)<br/>
 ### [Project Page](https://neuralcarver.github.io/michelangelo/) | [Arxiv](https://neuralcarver.github.io/michelangelo/) | [Paper](https://neuralcarver.github.io/michelangelo/static/paper.pdf)<br/>
 
-
-https://github.com/NeuralCarver/Michelangelo/assets/37449470/123bae2c-fbb1-4d63-bd13-0e300a550868
+<video id="teaser" muted autoplay="autoplay" loop="loop" width="150" height="150">
+  <source src="https://github.com/NeuralCarver/Michelangelo/assets/37449470/123bae2c-fbb1-4d63-bd13-0e300a550868" type="video/mp4">
+</video>
 
 
 Visualization of the 3D shape produced by our framework, which splits into triplets with a conditional input on the left, a normal map in the middle, and a triangle mesh on the right. The generated 3D shapes semantically conform to the visual or textural conditional inputs.<br/>

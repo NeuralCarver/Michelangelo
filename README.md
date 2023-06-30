@@ -9,7 +9,7 @@
 [Pei Cheng](https://neuralcarver.github.io/michelangelo),
 [Bin Fu](https://neuralcarver.github.io/michelangelo),
 [Tao Chen](https://eetchen.github.io),
-[Gang Yu](https://www.skicyyu.org)，
+[Gang Yu](https://www.skicyyu.org),
 [Shenghua Gao](https://sist.shanghaitech.edu.cn/sist_en/2020/0814/c7582a54772/page.htm)<br/>
 ### [Project Page](https://neuralcarver.github.io/michelangelo/) | [Arxiv](https://neuralcarver.github.io/michelangelo/) | [Paper](https://neuralcarver.github.io/michelangelo/static/paper.pdf)<br/>
 

@@ -50,7 +50,7 @@ pip install -r requirements.txt
 ```
 
 ### Checkpoints
-Pleasae download weights from <a "https://huggingface.co/Maikou/Michelangelo/tree/main/checkpoints">Hugging Face Model Space</a> and put it to root folder. We have also uploaded the weights related to CLIP to facilitate quick usage.
+Pleasae download weights from <a href="https://huggingface.co/Maikou/Michelangelo/tree/main/checkpoints">Hugging Face Model Space</a> and put it to root folder. We have also uploaded the weights related to CLIP to facilitate quick usage.
 
 ## ⚡ Quick Start
 

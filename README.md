@@ -51,17 +51,17 @@ Pleasae download weights from <a "https://huggingface.co/Maikou/Michelangelo/tre
 
 ### Inference
 
-#### Reconstruction
+#### Reconstruction a 3D shape
 ```
 ./scripts/reconstruction.sh
 ```
 
-#### Image-conditioned generation
+#### Image-conditioned shape generation
 ```
 ./scripts/image2mesh.sh
 ```
 
-#### Text-conditioned generation
+#### Text-conditioned shape generation
 ```
 ./scripts/text2mesh.sh
 ```

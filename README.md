@@ -40,12 +40,17 @@ We present a novel _alignment-before-generation_ approach to tackle the challeng
 ## ⚙️ Setup
 
 ### Installation
+Follow the command below to install the environment. We have tested the installation package on Tesla V100 and Tesla T4. 
 ```
+git clone https://github.com/NeuralCarver/Michelangelo.git
+cd Michelangelo
+conda create --name Michelangelo python=3.9
+conda activate Michelangelo 
 pip install -r requirements.txt
 ```
 
 ### Checkpoints
-Pleasae download weights from <a "https://huggingface.co/Maikou/Michelangelo/tree/main/checkpoints">Hugging Face Model Space</a> and put it to root folder.
+Pleasae download weights from <a "https://huggingface.co/Maikou/Michelangelo/tree/main/checkpoints">Hugging Face Model Space</a> and put it to root folder. We have also uploaded the weights related to CLIP to facilitate quick usage.
 
 ## ⚡ Quick Start
 

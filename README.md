@@ -17,6 +17,13 @@ https://github.com/NeuralCarver/Michelangelo/assets/37449470/123bae2c-fbb1-4d63-
 
 Visualization of the 3D shape produced by our framework, which splits into triplets with a conditional input on the left, a normal map in the middle, and a triangle mesh on the right. The generated 3D shapes semantically conform to the visual or textural conditional inputs.<br/>
 
+## 🔆 Features
+**Michelangelo possesses three capabilities: 
+
+1. Representing a shape into shape-image-text aligned space;
+2. Image-conditioned Shape Generation;
+3. Text-conditioned Shape Generation.
+
 <details>
   <summary><b> Techniques </b></summary>
 
@@ -26,7 +33,7 @@ We present a novel _alignment-before-generation_ approach to tackle the challeng
 </details>
 
 ## 📰 News
-- [2024/1/23] Set up the <a href="https://huggingface.co/spaces/Maikou/Michelangelo">huggingface</a> and release the code
+- [2024/1/23] Set up the <a href="https://huggingface.co/spaces/Maikou/Michelangelo">Hugging Face Demo</a> and release the code
 - [2023/09/22] **Michelangelo got accepted by NeurIPS 2023!**
 - [2023/6/29] Upload paper and init project
 
@@ -38,7 +45,7 @@ pip install -r requirements.txt
 ```
 
 ### Checkpoints
-You can download weights from <a href="[https://huggingface.co/spaces/Maikou/Michelangelo](https://huggingface.co/Maikou/Michelangelo/tree/main/checkpoints)">huggingface</a> and put it to root folder.
+Pleasae download weights from <a "https://huggingface.co/Maikou/Michelangelo/tree/main/checkpoints">Hugging Face Model Space</a> and put it to root folder.
 
 ## ⚡ Quick Start
 

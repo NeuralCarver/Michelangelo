@@ -18,7 +18,7 @@ https://github.com/NeuralCarver/Michelangelo/assets/37449470/123bae2c-fbb1-4d63-
 Visualization of the 3D shape produced by our framework, which splits into triplets with a conditional input on the left, a normal map in the middle, and a triangle mesh on the right. The generated 3D shapes semantically conform to the visual or textural conditional inputs.<br/>
 
 ## 🔆 Features
-**Michelangelo possesses three capabilities: 
+**Michelangelo** possesses three capabilities: 
 
 1. Representing a shape into shape-image-text aligned space;
 2. Image-conditioned Shape Generation;

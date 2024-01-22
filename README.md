@@ -30,7 +30,8 @@ We present a novel _alignment-before-generation_ approach to tackle the challeng
 - [2023/09/22] **Michelangelo got accepted by NeurIPS 2023!**
 - [2023/6/29] Upload paper and init project
 
-## ⚡ Quick Start
+## ⚙️ Setup
+
 ### Installation
 ```
 pip install -r requirements.txt
@@ -38,6 +39,8 @@ pip install -r requirements.txt
 
 ### Checkpoints
 You can download weights from <a href="[https://huggingface.co/spaces/Maikou/Michelangelo](https://huggingface.co/Maikou/Michelangelo/tree/main/checkpoints)">huggingface</a> and put it to root folder.
+
+## ⚡ Quick Start
 
 ### Inference
 

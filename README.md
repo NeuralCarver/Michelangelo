@@ -31,7 +31,7 @@ We present a novel _alignment-before-generation_ approach to tackle the challeng
 - [2023/6/29] Upload paper and init project
 
 ## ⚡ Quick Start
-### More Environments
+### Installation
 ```
 pip install -r requirements.txt
 ```

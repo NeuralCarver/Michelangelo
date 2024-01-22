@@ -11,7 +11,7 @@
 [Tao Chen](https://eetchen.github.io),
 [Gang Yu](https://www.skicyyu.org),
 [Shenghua Gao](https://sist.shanghaitech.edu.cn/sist_en/2020/0814/c7582a54772/page.htm)<br/>
-### [Project Page](https://neuralcarver.github.io/michelangelo/) | [Arxiv](https://arxiv.org/abs/2306.17115) | [Paper](https://neuralcarver.github.io/michelangelo/static/paper.pdf)<br/>
+### [Hugging Face Demo](https://huggingface.co/spaces/Maikou/Michelangelo) | [Project Page](https://neuralcarver.github.io/michelangelo/) | [Arxiv](https://arxiv.org/abs/2306.17115) | [Paper](https://neuralcarver.github.io/michelangelo/static/paper.pdf)<br/>
 
 https://github.com/NeuralCarver/Michelangelo/assets/37449470/123bae2c-fbb1-4d63-bd13-0e300a550868
 

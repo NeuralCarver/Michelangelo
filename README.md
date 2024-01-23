@@ -58,18 +58,24 @@ Pleasae download weights from <a href="https://huggingface.co/Maikou/Michelangel
 
 #### Reconstruction a 3D shape
 ```
-./scripts/reconstruction.sh
+./scripts/inference/reconstruction.sh
 ```
 
 #### Image-conditioned shape generation
 ```
-./scripts/image2mesh.sh
+./scripts/inference/image2mesh.sh
 ```
 
 #### Text-conditioned shape generation
 ```
-./scripts/text2mesh.sh
+./scripts/inference/text2mesh.sh
 ```
+
+#### Simply run all the scripts
+```
+./scripts/infer.sh
+```
+
 
 ## ❓ FAQ
 

@@ -49,6 +49,10 @@ conda activate Michelangelo
 pip install -r requirements.txt
 ```
 
+#### Tips
+
+If something goes wrong in the environment configuration process unfortunately, the user may consider skipping those packages, such as pysdf, torch-cluster, and torch-scatter. These packages will not affect the execution of the commands we provide.
+
 ### Checkpoints
 Pleasae download weights from <a href="https://huggingface.co/Maikou/Michelangelo/tree/main/checkpoints">Hugging Face Model Space</a> and put it to root folder. We have also uploaded the weights related to CLIP to facilitate quick usage.
 

@@ -54,7 +54,7 @@ Pleasae download weights from <a href="https://huggingface.co/Maikou/Michelangel
 
 <details>
   <summary><b>  
-    **Tips for debugging configureation** 
+    Tips for debugging configureation
   </b></summary>
 
 - If something goes wrong in the environment configuration process unfortunately, the user may consider skipping those packages, such as pysdf, torch-cluster, and torch-scatter. These packages will not affect the execution of the commands we provide.
